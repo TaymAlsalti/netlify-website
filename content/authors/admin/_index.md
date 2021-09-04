@@ -14,7 +14,7 @@ organizations:
   url: https://www.ewi-psy.fu-berlin.de/einrichtungen/arbeitsbereiche/methoden_und_evaluation/beschaeftigte/Taym-Alsalti/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Broadly, I am interested in doing meta-science and teaching reproducible research methods. More specific research interests include meta-analytic methods (especially publication bias and tests of small study effects), peer review, causal inference, psychology/sociology of science.
+bio: Broadly, I am interested in doing meta-science and teaching research methods. More specific research interests include meta-analytic methods (especially publication bias and tests of small study effects), peer review, causal inference, psychology/sociology of science.
 
 # Interests to show in About widget
 interests:
@@ -32,6 +32,7 @@ education:
   - course: B.Sc. Psychology
     institution: University of Freiburg
     year: 2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -72,9 +73,11 @@ email: "taymalsalti@gmail.com"
 highlight_name: false
 ---
 
-Broadly, I am interested in doing meta-science and teaching reproducible research methods. More specific research interests include meta-analytic methods (especially publication bias and tests of small study effects), peer review, causal inference, psychology/sociology of science.
+Broadly, I am interested in doing meta-science and teaching research methods. More specific research interests include meta-analytic methods (especially publication bias and tests of small study effects), peer review, causal inference, psychology/sociology of science.
 
 
 I am currently writing my [master thesis](https://osf.io/6efcg/) at the department of Methods and Evaluation / Quality Assurance at the FU Berlin. I've been affiliated with [METRICS](https://metrics.stanford.edu/) for a while and am currently involved in three research projects there, with [one of them](https://doi.org/10.1101/2021.08.25.21262631) soon coming to fruition. I will be starting a PhD somewhere in Germany in November or December of this year, in which I will research this meta-scientific topic or the other.
 
 I spend most of my free time nowadays (re)learning maths, trying to be a wee bit less terrible at the piano, and touring Berlin's cemetries. 
+
+---
