@@ -6,21 +6,20 @@ title: Taym Alsalti
 superuser: true
 
 # Role/position/tagline
-role: Graduate student
+role: RA/PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Freie Universität Berlin
-  url: https://www.ewi-psy.fu-berlin.de/einrichtungen/arbeitsbereiche/methoden_und_evaluation/beschaeftigte/Taym-Alsalti/index.html
+- name: University of Leipzig
+  url: https://www.lw.uni-leipzig.de/wilhelm-wundt-institut-fuer-psychologie/arbeitsgruppen/persoenlichkeitspsychologie-und-psychologische-diagnostik/team/taym-alsalti
 
 # Short bio (displayed in user profile at end of posts)
-bio: Broadly, I am interested in doing meta-science and teaching research methods. More specific research interests include meta-analytic methods (especially publication bias and tests of small study effects), peer review, causal inference, psychology/sociology of science.
+bio: 
 
 # Interests to show in About widget
 interests:
-- Meta Science
-- Quantitative methods
-- Causal inference
+- Meta-science (e.g., measurement practices, analytical reproducibility, peer review quality)
+- Quant methods (e.g., meta-analysis, causal inference, research design, psychometrics)
 - Epistemology & philosophy of science 
 
 # Education to show in About widget
@@ -28,10 +27,13 @@ education:
   courses:
   - course: M.Sc. Cognitive Neuroscience
     institution: Freie Universität Berlin
-    year: 2021
+    year: 02.2022 - 
+  - course: M.Sc. Cognitive Neuroscience
+    institution: Freie Universität Berlin
+    year: 01.2022
   - course: B.Sc. Psychology
     institution: University of Freiburg
-    year: 2019
+    year: 09.2019
 
 
 # Social/Academic Networking
@@ -73,11 +75,8 @@ email: "taymalsalti@gmail.com"
 highlight_name: false
 ---
 
-Broadly, I am interested in doing meta-science and teaching research methods. More specific research interests include meta-analytic methods (especially publication bias and tests of small study effects), peer review, causal inference, psychology/sociology of science.
+I just started a PhD in which I'll be researching measurement standardisation and related fun stuff with [Ruben Arslan](https://rubenarslan.github.io/), [Malte Elson](https://www.hti.ruhr-uni-bochum.de/personen/elson/index.html.de), and [Ian Hussey](https://mmmdata.io/). I've also been associated with the [METRICS](https://metrics.stanford.edu/) for about 2 years and have been/am involved in three projects there, with [one of them](https://doi.org/10.1101/2021.08.25.21262631) soon coming to fruition.
 
-
-I am currently writing my [master thesis](https://osf.io/6efcg/) at the department of Methods and Evaluation / Quality Assurance at the FU Berlin. I've been affiliated with [METRICS](https://metrics.stanford.edu/) for a while and am currently involved in three research projects there, with [one of them](https://doi.org/10.1101/2021.08.25.21262631) soon coming to fruition. I will be starting a PhD somewhere in Germany in November or December of this year, in which I will research this meta-scientific topic or the other.
-
-I spend most of my free time nowadays (re)learning maths, trying to be a wee bit less terrible at the piano, and touring Berlin's cemetries. 
+I spend most of my free time nowadays (re)learning maths, cooking and/or baking, cycling, and hanging around the forest and lakes in and around my village.
 
 ---
