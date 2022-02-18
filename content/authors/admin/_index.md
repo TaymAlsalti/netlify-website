@@ -25,11 +25,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in meta-science / behavioural research methods
+    institution: University of Leipzig
+    year: 02.2022 - today
   - course: M.Sc. Cognitive Neuroscience
-    institution: Freie Universität Berlin
-    year: 02.2022 - 
-  - course: M.Sc. Cognitive Neuroscience
-    institution: Freie Universität Berlin
+    institution: Free University of Berlin
     year: 01.2022
   - course: B.Sc. Psychology
     institution: University of Freiburg
