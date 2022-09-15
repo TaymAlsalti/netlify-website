@@ -77,6 +77,6 @@ highlight_name: false
 
 I am a PhD candidate and research assistant at the personality psychology and psychological assessment lab at the University of Leipzig. I'm doing research on measurement standardisation and related fun stuff with [Ruben Arslan](https://rubenarslan.github.io/), [Malte Elson](https://www.hti.ruhr-uni-bochum.de/personen/elson/index.html.de), and [Ian Hussey](https://mmmdata.io/). I've also been associated with the [METRICS](https://metrics.stanford.edu/) for about 2 years and have been/am involved in three projects there, with [one of them](https://doi.org/10.1101/2021.08.25.21262631) soon coming to fruition. 
 
-I spend most of my free time nowadays (re)learning maths, cooking and/or baking, cycling, and hanging around the forest and lakes in and around my village.
+I spend most of my free time nowadays cooking and baking, cycling, strolling, and pianoing.
 
 ---
